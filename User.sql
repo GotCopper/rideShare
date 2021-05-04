@@ -1,0 +1,1 @@
+INSERT INTO public."User" (id, "firstName", "lastName", email, password, phone, "isAdmin") VALUES (1, 'cooper', 'sandberg', 'c@gmail.com', 'aidshg', '123', true);

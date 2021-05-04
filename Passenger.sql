@@ -1,0 +1,1 @@
+INSERT INTO public."Passenger" ("userId", "rideId") VALUES (1, 1);

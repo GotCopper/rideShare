@@ -1,0 +1,1 @@
+INSERT INTO public."Driver" (id, "userId", "licenseNumber", "licenseState") VALUES (1, 1, '4', 'PA');

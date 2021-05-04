@@ -1,0 +1,1 @@
+INSERT INTO public."Ride" (id, date, time, distance, "fuelPrice", fee, "vechicleId", "fromLocationId", "toLocationId") VALUES (1, '2021-05-12', '01:00:00', 1, 1, 1, 1, 2, 2);

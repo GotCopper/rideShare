@@ -1,0 +1,1 @@
+INSERT INTO public."Authorization" ("driverId", "vechicleId") VALUES (1, 1);

@@ -1,0 +1,1 @@
+INSERT INTO public."Vechicle Type" (id, type) VALUES (1, 'yes');

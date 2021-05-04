@@ -1,0 +1,1 @@
+INSERT INTO public."Location" (id, name, address, city, state, "zipCode") VALUES (2, 'the', '4', '4', 'IN', '12345');
